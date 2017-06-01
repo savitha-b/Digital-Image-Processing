@@ -1,4 +1,4 @@
-%reduce intensity levels in graylevel image
+%reduce intensity levels in grayscale image
 clc;clear all;close all;
  img =imread('Fig0221(a)(ctskull-256).tif');
  img=im2double(img);
